@@ -32,7 +32,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "TAB_TAP";
             #binding-cells = <0>;
-            bindings = <&lt 3 TAB>, <&kp TAB>;
+            bindings = <&lt 4 TAB>, <&kp TAB>;
 
             tapping-term-ms = <100>;
         };
@@ -50,7 +50,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "SPACE_TAP";
             #binding-cells = <0>;
-            bindings = <&lt 4 SPACE>, <&kp SPACE>;
+            bindings = <&lt 3 SPACE>, <&kp SPACE>;
 
             tapping-term-ms = <100>;
         };
