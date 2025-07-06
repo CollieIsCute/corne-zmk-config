@@ -29,7 +29,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
-  - QWERTY
+  - {t: QWERTY_mac, h: toggle}
   - Z
   - X
   - C
