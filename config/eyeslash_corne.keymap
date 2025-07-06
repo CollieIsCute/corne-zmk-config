@@ -92,7 +92,7 @@
             bindings = <
 &mo 2                     &kp Q  &kp W  &kp E     &kp R         &kp T                              &kp UP                &kp Y       &kp U     &kp I         &kp O    &kp P     &caps_word
 &mt RS(LSHFT) RS(RSHIFT)  &kp A  &kp S  &kp D     &kp F         &kp G                    &kp LEFT  &kp ENTER  &kp RIGHT  &kp H       &kp J     &kp K         &kp L    &kp SEMI  &kp SQT
-&mo 0                     &kp Z  &kp X  &kp C     &kp V         &kp B      &kp C_MUTE              &kp DOWN              &kp N       &kp M     &kp COMMA     &kp DOT  &kp FSLH  &kp K_COFFEE
+&to 1                     &kp Z  &kp X  &kp C     &kp V         &kp B      &kp C_MUTE              &kp DOWN              &kp N       &kp M     &kp COMMA     &kp DOT  &kp FSLH  &kp K_COFFEE
                                         &kp LGUI  &kp LEFT_ALT  &kp LCTRL                                                &space_tap  &tab_tap  &lt 0 ESCAPE
             >;
 
